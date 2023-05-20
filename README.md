@@ -1,5 +1,5 @@
 # rubik-s_cube_solver_machine
-My facebook id for any query- https://www.facebook.com/100085364779674
+My facebook ID for any query- https://www.facebook.com/100085364779674
 
 3x3x3 Rubik's Cube solving with a new technique and building a solver machine with 5 stepper motors.
 
